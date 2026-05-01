@@ -1,0 +1,23 @@
+AEON SENTINEL PROPRIETARY LICENSE
+
+Copyright (c) 2026 Aeon Sentinel. All rights reserved.
+
+1. LICENSE GRANT: 
+This software (the "SDK") is provided in compiled form only. Aeon Sentinel 
+grants you a limited, non-exclusive, non-transferable license to use the 
+SDK solely for integrating your AI agents with the Aeon Sentinel Protocol.
+
+2. RESTRICTIONS:
+- The SDK is CLOSED SOURCE. You may not decompile, disassemble, reverse 
+  engineer, or attempt to derive the source code.
+- You may not redistribute, sell, or lease the SDK as a standalone product.
+- You may not bypass the licensing verification logic contained within the SDK.
+
+3. OWNERSHIP:
+Aeon Sentinel retains all ownership and intellectual property rights 
+to the SDK, the underlying Smart Contracts, and the verification protocol.
+
+4. LIMITATION OF LIABILITY:
+The software is provided "as is". Aeon Sentinel is not responsible for 
+any loss of funds, smart contract exploits, or agent misbehavior 
+resulting from the use of this SDK.

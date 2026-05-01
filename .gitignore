@@ -1,0 +1,10 @@
+# Aeon Sentinel - Minimal Gitignore
+# Since this is a simple example repository, there are currently no major build artifacts or dependencies to ignore.
+
+# Local environment variables
+.env
+.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
